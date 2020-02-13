@@ -11,4 +11,10 @@ Step 4: Download the needed model from the checkpoints folder on drive to the ch
 
 Step 5: Test the model by running Play.py
 
+Make sure you have the following installed on your local:
+Python 3.7
+gym
+torch
+box2d-py
+
 More detailed steps are in the Colab notebook
