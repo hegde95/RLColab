@@ -5,7 +5,7 @@ Step 1: Clone this repo
 
 Step 2: Add the PPO.ipynb, lib and checkpoints folder to a folder on your Google Drive
 
-Step 3: Configure as needed and run the CoLab Notebook
+Step 3: On the drive, open PPO.ipynb using Google Colaboratory. Configure as needed and run the CoLab Notebook
 
 Step 4: Download the needed model from the checkpoints folder on drive to the checkpoints folder on your local
 
