@@ -3,7 +3,7 @@ This repo lets you run PPO on Google CoLab and Test your model on you local mach
 
 Step 1: Clone this repo
 
-Step 2: Add the lib and checkpoints folder to your Google Drive
+Step 2: Add the lib and checkpoints folder to a folder on your Google Drive
 
 Step 3: Configure as needed and run the CoLab Notebook
 
